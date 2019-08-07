@@ -10,7 +10,14 @@
     "copy": "copy package.json dist",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+   "TypeScript",
+    "NodeJS",
+    "Starter",
+    "language",
+    "javascript",
+    "Kit"
+  ],
   "author": "",
   "license": "ISC",
   "devDependencies": {
